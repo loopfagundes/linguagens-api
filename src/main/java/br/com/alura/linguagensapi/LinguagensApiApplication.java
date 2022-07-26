@@ -10,3 +10,5 @@ public class LinguagensApiApplication {
 		SpringApplication.run(LinguagensApiApplication.class, args);
 	}
 }
+
+//up

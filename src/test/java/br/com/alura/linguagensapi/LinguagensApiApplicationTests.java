@@ -10,5 +10,3 @@ class LinguagensApiApplicationTests {
 	void contextLoads() {
 	}
 }
-
-//update
